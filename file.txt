@@ -1,0 +1,5 @@
+Name: name
+Age: 34
+Address: sgjdk
+Kyc: 578
+Account Type: S
