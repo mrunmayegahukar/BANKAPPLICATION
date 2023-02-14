@@ -1,5 +1,5 @@
-Name: name
-Age: 34
-Address: sgjdk
-Kyc: 578
+Name: nayan
+Age: 24
+Address: nagpur
+Kyc_No: 22
 Account Type: S

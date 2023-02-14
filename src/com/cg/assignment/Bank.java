@@ -16,7 +16,7 @@ public class Bank {
 		int age = scanner.nextInt();
 		scanner.nextLine();
 		
-		System.out.println("Enter your kyc: ");
+		System.out.println("Enter your Kyc_No: ");
 		int kyc = scanner.nextInt();
 		scanner.nextLine();
 		
@@ -39,7 +39,7 @@ public class Bank {
 			writer.write("Name: " + name +"\n");
 			writer.write("Age: " + age +"\n");
 			writer.write("Address: " + address +"\n");
-			writer.write("Kyc: " + kyc +"\n");
+			writer.write("Kyc_No: " + kyc +"\n");
 			writer.write("Account Type: " + accountType +"\n");
 			writer.close();
 			System.out.println("Account information has been saved to file.");
